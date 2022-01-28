@@ -1,0 +1,55 @@
+.karaganda{
+    color: #ffffff;
+    font-family: "ubuntu";
+    font-size: 15px;
+    width: 250px;
+    position: absolute;
+    top: 5px;
+    left: 60px;
+}
+.nurses{
+    border-bottom: 5px solid #FE0000;
+}
+.text{
+    margin-top: 20px;
+    text-align: center;
+}
+.text2{
+    margin-top: 10px;
+    font-family: ubuntu;
+    font-size: 17px;
+    margin-left: 12px;
+}
+.col-md-4{
+    border-radius: 7px;
+    background-color: rgba(220, 53, 69, 0.2);
+    height: 400px;
+    width: 339px;
+}
+
+.text3{
+    margin-top: 10px;
+    font-family: ubuntu;
+    font-size: 17px;
+    margin-left: 12px;
+}
+.button1{
+    text-align: center;
+    margin-top: 23px;
+    height: 40px;
+    width: 290px;
+    border-radius: 4px;
+    margin-left: 12px;
+    background-color: #DC3545;
+    color: white;
+}
+.registration{
+   margin-top: 25px;
+    margin-left: 82px;
+}
+.text0{
+    font-size: 18px;
+    font-family: ubuntu;
+}
+
+
